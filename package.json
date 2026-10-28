@@ -29,8 +29,8 @@
   },
   "devDependencies": {
     "fs-extra": "^11.1.0",
-    "jest": "^29.4.3",
-    "jest-environment-jsdom": "^29.4.3",
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2",
     "jsdom": "^21.1.0",
     "node-fetch": "2",
     "pdf-diff": "^0.1.1",
